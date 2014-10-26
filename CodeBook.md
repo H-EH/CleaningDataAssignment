@@ -1,6 +1,6 @@
 ## CODE BOOK for AverageSet.txt and DataSet1.csv
 
-DataSet1.csv 
+DataSet1.csv (sample uploaded only - file too big to upload properly)
 
 - it is a combination of all the data files from Human Activity Recognition Using Smartphones Dataset.
 
